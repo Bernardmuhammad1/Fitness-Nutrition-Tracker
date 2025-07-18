@@ -6,3 +6,15 @@
 - [x] Updated README.md
 - [x] Tested code and made sure it worked.
 - [x] Updated projectroadmap.md  
+
+## Planned Tasks
+- [x] Create README.md - DONE
+- [x] Initialize repo with LICENSE and .gitignore - DONE
+- [x] Create tracker.py with basic functions - DONE
+- [x] Create user_data.py - DONE
+- [x] Add docstrings and comments to tracker.py - DONE
+- [ ] Test tracker.py with sample data - IN PROGRESS
+
+## Emerging Tasks
+- [ ] Add persistent storage (e.g., save to file)
+- [ ] Build simple command-line interface
